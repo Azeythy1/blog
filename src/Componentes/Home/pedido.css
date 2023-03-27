@@ -1,0 +1,15 @@
+:root{
+    background-color: rgb(255, 255, 255);
+    font-size: 26px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    color: #292727;
+}
+
+.container{
+  display: flex;
+  margin: 20 auto;
+  background-color: #292727;
+    
+}
